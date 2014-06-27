@@ -1,5 +1,5 @@
 ---
-title: 1406 Student Profiles: Corey Davis
+title: 1406 Student Profiles - Corey Davis
 date: 2014-06-27 17:47 UTC
 tags:
 author: Susannah Compton
