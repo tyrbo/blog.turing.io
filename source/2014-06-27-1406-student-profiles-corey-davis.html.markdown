@@ -14,6 +14,8 @@ know them, too. Meet Corey Davis.
 Tell us a little more about why you wanted to become a developer and what you
 were up to before coming to Turing.
 
+<img src='/images/article_images/davis_corey.jpg' style='float:right;margin:0.2em'/>
+
 **Corey**: Well before Turing I was a teacher. I taught eighth-grade science. I’ve
 been teaching middle school for about six years, and honestly I’ve been searching
 for something else.
@@ -54,7 +56,7 @@ started to get into Ruby and rails.
 
 The thing I started to notice was that I never got bored. I just kept wanting more.
 That’s where I thought okay, this might be the thing, and I can do it in six months,
-and I don’t have to take out at $200,000 loan to make it happen. And so all of
+and I don’t have to take out a $200,000 loan to make it happen. And so all of
 those pieces just sort of fell into place.
 
 I think what cemented it for me was a big part of what I haven’t enjoyed in previous
