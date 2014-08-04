@@ -1,6 +1,6 @@
 ---
 title: How Posses Work
-date: 2014-08-04 23:10 UTC
+date: 2014-08-03 23:10 UTC
 tags:
 author: Jeff Casimir
 layout: post
