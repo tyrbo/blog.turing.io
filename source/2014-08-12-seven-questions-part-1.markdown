@@ -16,7 +16,7 @@ Erin Carson wrote an [article for TechRepublic titled "How to pick a coding camp
 
 Throughout the series I'll make references and comparisons to other programs I know and respect such as [DevBootcamp](http://devbootcamp.com/), [Flatiron School](http://flatironschool.com/), and [MakerSquare](http://www.makersquare.com/).
 
-### Question 1: How Intense Is It?
+## Question 1: How Intense Is It?
 
 It's exciting to talk about the intensity of a program. Most people love the idea of "going all in" and working as hard as you possibly can. DevBootcamp students notoriously spend super long hours in the building throughout their nine weeks.
 
@@ -26,12 +26,12 @@ can get good value out of that approach for nine weeks, but it won't work for 27
 <a href="https://www.flickr.com/photos/thomasrousing/12614761854/in/photostream/" target='_blank'><img src='/images/article_images/ironman.jpg' style="float:left;"/></a>
 
 Do marathon runners run faster marathons than IronMan participants? I hope so. Does
-that mean an IronMan marathon is less intense? No. It's just a different strategy
-when you're attacking a different goal.
+that mean an IronMan marathon is *less intense*? No. It's just a different strategy
+to attack a different goal. When the marathon is just one-third of the story, you
+pace yourself differently.
 
-The only way to get reasonable value out of a short course (8-12 weeks) it to put
-in a whole lot of hours. A program that short can't both value "work/life balance"
-and deliver significant academic gains. But that's the right choice given the time constraint.
+The only way to get reasonable value out of a short course (9-12 weeks) it to put
+in a whole lot of hours every single day. A program that short can't both value "work/life balance" and deliver significant academic gains.
 
 A training program isn't real life, it's a temporary arrangement. I like to tell
 our students "work crazy hard now so you never *have to* again." Contrary to
@@ -43,11 +43,13 @@ return and attack problems in the morning.
 So how *intense* should a program be? There's no
 reason that a program should be intense for its own sake. The "intensity" is a
 side effect of educational challenge. It's the feeling you get when you're
-fighting.
+**fighting**.
 
-The real questions you should ask are "what are the expectations for students?
-Who sets and customizes those expectations? How much responsibility does the
-instructional team and organization bear to guide my learning?"
+Instead of focusing on intensity, the real questions you should ask are:
+
+* What are the academic expectations for students?
+* Who sets and customizes those expectations?
+* How much responsibility does the instructional team and organization bear to guide my learning?
 
 If you're in a school your time should be *highly optimized and scheduled*. At
 DBC they like to have more paired work and fewer whole-group classes. That
@@ -62,9 +64,9 @@ or otherwise "guide your own learning", that's a red flag. You're not in a *scho
 you're paying tuition for office space. Some people learn well on their own, but
 those people shouldn't pay tuition to a training program in the first place.
 
-Break down the tuition by attendance hour. You'll probably arrive at something
-like $25 per hour. Is the program really delivering that value when you're
-just working on whatever comes to your mind? If the staff is just there to
+Break down the tuition by attendance hour and you'll probably arrive at something
+above $25. Is the program really delivering that value when you're
+just working on whatever comes to your mind? If the staff is only there to
 answer questions, that's not education.
 
 At Turing student time is **highly structured**. That doesn't mean you sit in a
