@@ -1,6 +1,6 @@
 ---
 title: "7 Questions Part 2: Motives"
-date: 2014-08-12 10:00 UTC
+date: 2014-08-20 10:00 UTC
 tags:
 author: Jeff Casimir
 layout: post
