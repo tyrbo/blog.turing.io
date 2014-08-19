@@ -54,7 +54,7 @@ Think about the *delta* in that life. How much happier is someone like Mary writ
 
 We can't ignore salary. For many students their post-program salary is more than double what they earned coming in. Money itself is nice, but there's a huge life impact here.
 
-That salary means o ur graduates are more likely to own a home. Most couples point to financial stress as the number one challenge in a relationship, so by alleviating that stress they're more likely to find and stick with a life partner. If they choose to have children, those kids are more likely to live in a neighborhood with strong schools. They're more likely to attend college. They're more likely to build a strong relationship with their parent who can be home in the evenings and weekends. That's multi-generational change.
+That salary means our graduates are more likely to own a home. Relieving financial stress means they're more likely to be happy with themselves, and they're more likely to find and stick with a life partner. If they choose to have children, those kids are more likely to live in a neighborhood with strong schools. They're more likely to attend college. They're more likely to build a strong relationship with their parent who can be home in the evenings and weekends. That's multi-generational change.
 
 ### On Motives
 
