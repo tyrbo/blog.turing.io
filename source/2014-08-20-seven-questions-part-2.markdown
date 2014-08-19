@@ -44,11 +44,17 @@ And in Hungry Academy, Mary struggled. She fought hard. She lost faith in her ab
 
 But she made it. She joined LivingSocial's engineering team and succeeded. She recently took a great opportunity to join the dev team at [Paperless Post](https://www.paperlesspost.com/). She's loving her work and continues to participate in our student mentoring with Turing.
 
-Think about the *delta* in her life. How much happier is she writing code than the old days of answering phones? How much more creative are her days? How does that change her overall happiness?
+### A Life Change
 
-We can't ignore salary, which doubled after finishing our program. Money itself is nice, but there's a huge life impact moving from less than $50K to close to or over $100K. She's more likely to own a home. Most couples point to financial stress as the number one challenge in a relationship, so by alleviating that stress she's more likely to find and stick with a person she wants to spend her life with. If she chooses to have children, those kids are more likely to live in a neighborhood with strong schools. They're more likely to attend college. They're more likely to build a strong relationship with their mom who can be home in the evenings and weekends. That's multi-generational change.
+Most of our students go through a significant life change. I like to think about a graph of their happiness in life; we work to help them increase the slope of that curve.
 
 Being a programmer is a solid job. If you're good at it, are nice to people, and keep working hard, you don't have to worry about having a job *ever*. It's a foundation you can build a life upon.
+
+Think about the *delta* in that life. How much happier is someone like Mary writing code than the old days of answering phones? How much more creative are her days? How does that change her overall happiness?
+
+We can't ignore salary. For many students their post-program salary is more than double what they earned coming in. Money itself is nice, but there's a huge life impact here.
+
+That salary means o ur graduates are more likely to own a home. Most couples point to financial stress as the number one challenge in a relationship, so by alleviating that stress they're more likely to find and stick with a life partner. If they choose to have children, those kids are more likely to live in a neighborhood with strong schools. They're more likely to attend college. They're more likely to build a strong relationship with their parent who can be home in the evenings and weekends. That's multi-generational change.
 
 ### On Motives
 
