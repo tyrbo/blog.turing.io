@@ -26,7 +26,7 @@ As a team, we decided from the beginning that collaboration and a smooth Github 
 
 [Jonmichael](https://twitter.com/tyrbo) took on the role of gatekeeper, which meant that any code on it's way to the master branch would first be vetted and approved prior to being merged in. Taking this approach (with the help of CodeClimate and Travis CI) allowed us to almost always keep the master branch working without any hiccups, as failing tests were never acceptable on the master branch.
 
-Tan took on the role of Scrum Master and Project Manager. In those roles, he was responsible for ensuring that as a team, we were completing tasks at the pace necessary to complete our project and meet all deadlines. We made use of [waffle.io](https://waffle.io) to manage our Github issues, and he made sure that all our tasks and issues were always up to date.
+[Tan](https://twitter.com/tan_themaaan) took on the role of Scrum Master and Project Manager. In those roles, he was responsible for ensuring that as a team, we were completing tasks at the pace necessary to complete our project and meet all deadlines. We made use of [waffle.io](https://waffle.io) to manage our Github issues, and he made sure that all our tasks and issues were always up to date.
 
 Overall, we all embraced these collaborative guidelines we established, and feel that it contributed greatly to our success
 
@@ -36,4 +36,4 @@ The biggest challenges and struggles we faced while working with the project wer
 
 Thank you,
 
-- [Allison](https://twitter.com/allielarson1212), Chad, [Jonmichael](https://twitter.com/tyrbo), and Tan
+- [Allison](https://twitter.com/allielarson1212), Chad, [Jonmichael](https://twitter.com/tyrbo), and [Tan](https://twitter.com/tan_themaaan)
