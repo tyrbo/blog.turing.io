@@ -32,7 +32,7 @@ Overall, we all embraced these collaborative guidelines we established, and feel
 
 ## Conclusion
 
-Overall, the biggest challenges and struggles we faced while working with the project were a result of the legacy code we inherited. The design decisions we made and our excellent teamwork allowed us to overcome any issues we faced, ensuring that we delivered a working and relatively polished product.
+The biggest challenges and struggles we faced while working with the project were a result of the legacy code we inherited. The design decisions we made and our excellent teamwork allowed us to overcome any issues we faced, ensuring that we delivered a working and relatively polished product.
 
 Thank you,
 
