@@ -28,6 +28,8 @@ As a team, we decided from the beginning that collaboration and a smooth Github 
 
 [Tan](https://twitter.com/tan_themaaan) took on the role of Scrum Master and Project Manager. In those roles, he was responsible for ensuring that as a team, we were completing tasks at the pace necessary to complete our project and meet all deadlines. We made use of [waffle.io](https://waffle.io) to manage our Github issues, and he made sure that all our tasks and issues were always up to date.
 
+Chad spent a lot of time working on the user experience. This included where things would go, what things would show up where, the general layout of a lot of our pages, and what bits of JavaScript we were using on each page. As a group, none of us felt like we were very strong when it came to user experience, but despite that, Chad was able to take the reins and help us deliver a solid product.
+
 Overall, we all embraced these collaborative guidelines we established, and feel that it contributed greatly to our success
 
 ## Conclusion
